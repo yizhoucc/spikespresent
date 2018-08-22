@@ -12,7 +12,8 @@ section.has-light-background, section.has-light-background h1, section.has-light
  *********************************************/
 body {
   background: #222;
-  background-color: #222; }
+  background-color: #222;
+  cursor:url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Map_pointer.svg/1024px-Map_pointer.svg.png),auto;}
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
